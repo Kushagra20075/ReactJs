@@ -1,0 +1,86 @@
+/*
+.container{
+    min-height: 60px;
+    position: fixed;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 20px;
+    top: 0;
+    left: 0;
+    right: 0;
+
+}
+
+.Menu{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex: 1;
+}
+
+.RightMenu{
+    display: flex;
+    align-items: center;
+}
+
+.para{
+    font-weight: 600;
+    text-transform: uppercase;
+    padding: 0 10px;
+    flex-wrap: nowrap;
+
+}
+*/
+.image{
+    height:25px;
+    cursor:pointer;
+}
+.box {
+    size: 10px;
+    font-weight: 600;
+    text-transform: uppercase;
+    padding: 0 10px;
+    flex-wrap: nowrap;
+}
+
+.box{
+    size: 30px;
+    margin: 10px 10px 10px 10px;
+}
+
+.MenuBar{
+    
+}
+
+.li{
+    padding: 15px 30px;
+    font-size: 20px;
+
+}
+
+.lia{
+    font-weight: 600;
+}
+
+.close{
+    font-size: 30px;
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 30px;
+}
+.fa-times{
+    cursor: pointer;
+}
+
+.fa-globe{
+    margin-right: 10px;
+}
+
+.box:hover{
+    background-blend-mode: darken;
+    opacity: 0.8;
+    border-radius: 20px;
+    margin: 10px 10px 10px 10px;
+    
+}
