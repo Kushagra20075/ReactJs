@@ -34,7 +34,7 @@ Front-End Website Clones of popular website [Amazon](https://www.amazon.in/) and
 
 Clone the repo
  ```
-https://github.com/Kushagra20075/ReactJs.git
+git clone https://github.com/Kushagra20075/ReactJs.git
  ```
 
 Navigate into any repository and enter
