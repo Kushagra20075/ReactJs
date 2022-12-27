@@ -1,0 +1,8 @@
+.orders {
+  padding: 20px 80px;
+  background-color: rgb(255, 235, 250);
+}
+
+.orders > h1 {
+  margin-bottom: 320px;
+}

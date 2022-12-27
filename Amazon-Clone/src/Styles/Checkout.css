@@ -1,0 +1,21 @@
+.checkout {
+  display: flex;
+  padding: 20px;
+  background-color: rgb(253, 237, 250);
+  height: max-content;
+}
+.subBasket {
+  display: flex;
+  justify-content: space-between;
+}
+.checkout__ad {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+.checkout__title {
+  margin-right: 10px;
+  padding: 10px;
+  margin-bottom: 20px;
+  border-bottom: 1px solid lightgray;
+}
